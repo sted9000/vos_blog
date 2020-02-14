@@ -10,11 +10,20 @@ $color_grey_medium: #777;
 $color_grey_dark: #555;
 $color_grey_very_dark: #333;
 
-$color_dark_blue: #1C3859;
-$color_blue: #115376;
-$color_dark_green: #2C8883;
-$color_green: #97D8A2;
-$color_tan: #FDFBD9;
+$color_dark_blue: rgba(130, 70, 112, 1);
+$color_blue: rgba(162, 112, 138, 1);
+$color_dark_green: rgba(189, 160, 188, 1);
+$color_green: rgba(195, 210, 213, 1);
+$color_tan: rgba(193, 247, 220, 1);
+
+
+/* RGB */
+$color1: rgba(193, 247, 220, 1);
+$color2: rgba(195, 210, 213, 1);
+$color3: rgba(189, 160, 188, 1);
+$color4: rgba(162, 112, 138, 1);
+$color5: rgba(130, 70, 112, 1);
+
 
 $breakpoint_menu: 768px;
 
